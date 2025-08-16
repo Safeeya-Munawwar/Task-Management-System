@@ -1,12 +1,12 @@
 # 📋 Task Management System
 
-## Overview
+## 📌 Overview
 The **Task Management System** is a full-stack application designed to help you efficiently create, manage, and track your tasks.  
 With a simple and intuitive interface, it supports task creation, updates, deletion, sorting, and completion tracking — all powered by **React**, **Node.js**, **Express**, and **MongoDB**.
 
 ---
 
-## How to Use the App
+## 🛠 How to Use the App
 * **Add New Task** – Enter task details including title, description, and deadline.
 * **View All Tasks** – See pending and completed tasks in organized lists.
 * **Edit or Delete Tasks** – Update details or remove tasks easily.
@@ -16,14 +16,14 @@ With a simple and intuitive interface, it supports task creation, updates, delet
 
 ---
 
-## Symbols
+## 📚 Symbols
 * ✅ **Completed Tasks** – Tasks that have been marked as done.
 * ⏳ **Pending Tasks** – Tasks still in progress.
 * ⚠️ **Deadline Approaching** – Tasks with deadlines nearing.
 
 ---
 
-## Additional Features
+## ✨ Additional Features
 * **Search Bar** – Quickly find tasks by title or description.
 * **Sort Options** – Sort tasks by title or deadline in ascending/descending order.
 * **Responsive UI** – Works on desktop, tablet, and mobile.
@@ -31,14 +31,14 @@ With a simple and intuitive interface, it supports task creation, updates, delet
 
 ---
 
-## Benefits
+## 💡 Benefits
 * **Stay Organized** – All your tasks in one place, clearly categorized.
 * **Meet Deadlines** – Deadline alerts help you stay on track.
 * **Easy to Use** – Minimal clicks to add, update, or complete a task.
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 * **Frontend:** React (Hooks, useState, useEffect)
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB with Mongoose
@@ -47,12 +47,12 @@ With a simple and intuitive interface, it supports task creation, updates, delet
 
 ---
 
-## Live Demo
+## 🌐 Live Demo
 🔗 [Task Management System Demo](https://your-demo-link.com)
 
 ---
 
-## Author
+## 👩‍💻 Author
 **Your Name**  
 <p>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
